@@ -24,3 +24,7 @@ p {
 a {
     color: aquamarine;
 }
+footer h3 {
+    color: grey;
+    text-align: right;
+}
